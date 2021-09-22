@@ -12,7 +12,7 @@ The aim is to build a image classification neural network using PyTorch, and tra
 The following are the main steps of this project
 
 1. Explore and prepare the data for training and testing.
-2. **Design and build your neural network.**
+2. **Design and build the neural network.**
 3. Train the neural network on the training set.
 4. Evaluate your network's performance on the test set.
 
